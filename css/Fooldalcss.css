@@ -1,0 +1,87 @@
+
+.aboutme
+{
+	color: black;
+}
+
+.navigation #Hobbik
+{
+	display: none;
+}
+
+.navigation a.icon 
+{
+  float: right;
+  width: 20px;
+  height: 20px;
+  padding: 20px 20px;
+
+
+}
+.pics img
+{
+	float: right;
+	margin: 0 60px;
+	height:259px;
+}
+body 
+{
+
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  position: relative;
+  margin: 0;
+  width:100%;
+  height: auto;
+}
+.head h1
+{
+    font-size: 40px;
+}
+    
+.head 
+{
+text-align: Left;
+color: white;
+margin-top: 100px;
+margin-left:60px;
+margin-right:60px;
+margin-bottom:50px;
+}
+.aboutme 
+{
+    text-align: center;
+
+}
+.navigation 
+{
+  overflow: hidden;
+  background-color: #333;
+  position: top;
+}
+
+.navigation a 
+{
+  float: left;
+  color: white;
+  padding: 20px 60px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+
+
+.navigation a:hover 
+{
+  background-color: #ddd;
+  color: black;
+}
+
+.active 
+{
+  background-color: #666;
+  color: white;
+  
+}  
+
