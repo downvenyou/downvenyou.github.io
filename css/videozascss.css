@@ -70,6 +70,12 @@ margin-bottom:50px;
 	margin: 0 60px;
 	height:259px;
 }
+.videopic img
+{
+	float: left;
+	width: 32%;
+	padding: 10px;
+}
 
 
 
