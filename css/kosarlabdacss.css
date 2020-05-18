@@ -1,0 +1,45 @@
+
+.aboutme
+{
+	color: black;
+}
+
+.oszlop
+{
+  float: left;
+  width: 32%;
+  padding: 10px;
+}
+
+.oszlop img 
+{
+  opacity: 0.8; 
+  cursor: pointer; 
+}
+
+.oszlop img:hover {
+  opacity: 1;
+}
+.sor:after 
+{
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.show 
+{
+  position: relative;
+  display: none;
+} 
+ 
+.closebutton 
+{
+  position: absolute;
+  top: 15px;
+  right: 25px;
+  color: white;
+  font-size: 50px;
+  cursor: pointer;
+}
+  
